@@ -7,7 +7,7 @@ And because everything is not restricted in messages, you will ba able to change
 
 Visuals indicators:
 An oled display (showing his mouth) will shurely tell you your mic volume (he can show other emotions when you press)
-Two leds will show you states of headset volume, and change coulor when you press buttons i think!
+Two leds will show you states of headset volume, and change color when you press buttons i think!
 
 
 
