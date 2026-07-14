@@ -1,4 +1,4 @@
-My BKpad is my first project based on the model of the boykisser!
+**My BKpad is my first project based on the model of the boykisser!**
 
 This pad makes your communications easier!
 You can express yourself with your emojis, there will be firstly UwU, OwO (4 different buttons)
@@ -12,7 +12,7 @@ Twelve leds will show you various informations and interactions :o
 
 
 
-# This project is made in steps:
+**# This project is made in steps:**
 
 1st: design the idea (easy to think)
 2nd: use the tutorial to learn kicad and fusion 360 
